@@ -16,7 +16,7 @@ We’d love to hear from you - please get hold of us if you’re interested, or 
 
 ## Version
 
-* **Version 1.0** - *4 April 2018*
+* **Version 1.0** - *9 April 2018*
 
 ## License
 
