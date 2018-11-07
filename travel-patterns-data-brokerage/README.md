@@ -1,10 +1,10 @@
-# Location data brokerage
+# Travel Patterns
 
-Government agencies aren't sure about how best to use travel patterns data in solving some of their problems. Without an easily ccessible means to understand the data available, problems either don't get solved, or result in poorly written RFPs. This results in increase in costs to all parties. 
+Government agencies aren't sure about how best to use travel patterns data in solving some of their problems. Without an easily ccessible means to understand the data available, problems either don't get solved, or result in poorly written RFPs. This results in increase in costs to all parties.
 
-**Concept** 
+**Concept**
 
-A sandpit environment for government agencies to test use cases for travel patterns data through better understanding of the data. 
+A  environment for government agencies to test use cases for travel patterns data through better understanding of the data.
 
 We’d love to hear from you - please get hold of us if you’re interested, or have any questions or comments, at dataventures [at] stats.govt.nz.
 
